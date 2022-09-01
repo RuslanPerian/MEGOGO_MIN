@@ -1,0 +1,2 @@
+# MEGOGO_MIN
+MIN
